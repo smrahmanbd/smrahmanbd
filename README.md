@@ -2,6 +2,12 @@
 
 Interactive, beginner-friendly websites for transportation engineering: each one has animations, simulators, quizzes, mind maps, study guides and slides, and most have runnable code.
 
+## 🎓 Oral Exams: Transportation and Pavement Concepts
+
+61 interactive, beginner-friendly pages for PhD comprehensive oral exam preparation, covering traffic flow theory, urban transportation planning, transportation safety, transportation data analysis and pavement engineering. Each page has sliders, "Try this" experiments, a worked example and a follow-up question.
+
+**[Open site](https://smrahmanbd.github.io/Oral-Exams/)** · **[Repository](https://github.com/smrahmanbd/Oral-Exams)**
+
 ## 🚥 CE677 Traffic Control and Operation
 
 Four modules on adaptive traffic signal control, from established systems to learning and agentic controllers. Course hub: [ce677-traffic-control-and-operation](https://github.com/smrahmanbd/ce677-traffic-control-and-operation).
@@ -27,5 +33,4 @@ Four modules on adaptive traffic signal control, from established systems to lea
 | Course | What it covers | Website | Repository |
 |---|---|---|---|
 | **Human Factors in Traffic Safety (CE585)** | Topic-by-topic class questions, each with an animation, discussion prompts, the answer with evidence and a quiz | [Open site](https://smrahmanbd.github.io/Human-Factors-in-Traffic-Safety/) | [Human-Factors-in-Traffic-Safety](https://github.com/smrahmanbd/Human-Factors-in-Traffic-Safety) |
-| **Oral Exams: Transportation and Pavement Concepts** | 61 interactive, beginner-friendly pages for PhD comprehensive oral exam preparation: traffic flow theory, urban transportation planning, transportation safety, transportation data analysis and pavement engineering; each with sliders, "Try this" experiments, a worked example and a follow-up question | [Open site](https://smrahmanbd.github.io/Oral-Exams/) | [Oral-Exams](https://github.com/smrahmanbd/Oral-Exams) |
 | **Transport Twin Study Path** | Digital twins for transportation: foundations, build and implement, research frontier, with SUMO | [Open site](https://smrahmanbd.github.io/transport-twin-study/) | [transport-twin-study](https://github.com/smrahmanbd/transport-twin-study) |
